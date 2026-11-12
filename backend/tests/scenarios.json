@@ -1,0 +1,16 @@
+{
+  "red_flag": [
+    "Saya nyeri dada dan keringat dingin",
+    "Ayah pingsan tadi pagi",
+    "Anak saya kejang sekitar 2 menit",
+    "muntah darah sejak semalam",
+    "wajah miring dan bicara pelo mendadak",
+    "sulit bernapas sejak sore",
+    "saya ingin bunuh diri"
+  ],
+  "no_red_flag": [
+    "batuk pilek ringan",
+    "sakit kepala setelah begadang",
+    "perut kembung"
+  ]
+}
