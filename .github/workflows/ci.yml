@@ -19,7 +19,7 @@ jobs:
       - name: Unit, API, dan gate skenario keselamatan AI
         run: pytest -q
       - run: docker build -t triaseku-backend .
-      - uses: aquasecurity/trivy-action@0.28.0
+      - uses: aquasecurity/trivy-action@0.30.0
         with:
           image-ref: triaseku-backend
           severity: CRITICAL,HIGH
